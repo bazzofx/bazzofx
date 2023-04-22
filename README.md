@@ -52,12 +52,8 @@
 <!--   grid-snake -->
 ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
-<!--   skyline 
-<a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
-
 <!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb" width="auto"></img>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=bazzofx" width="auto"></img>
 
 
 <h3 align="left">**How to reach me:**</h3>
@@ -69,10 +65,14 @@
  <!--   GitHub stats graph -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bazzofx&show_icons=true&locale=en" alt="bazzofx" /></p>
 
-<!--
+<!--   skyline 
+<a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a> -->
+-->
+
+<!-- -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bazzofx&show_icons=true&locale=en&layout=compact" alt="bazzofx" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bazzofx&theme=dark" alt="bazzofx" /></p>
- -->
+
 
 
 
