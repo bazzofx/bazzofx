@@ -1,7 +1,10 @@
 <p align="left"> <a href="https://twitter.com/bazzofx" target="blank"><img src="https://img.shields.io/twitter/follow/bazzofx?logo=twitter&style=for-the-badge" alt="bazzofx" /></a> 
+</p>
 <a href="https://twitter.com/bazzofx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bazzofx" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/paulo-bazzo-ma-91539393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulo-bazzo-ma-91539393" height="30" width="40" /></a>
-</p>
+<p align = "right">
+ 
+ </p>
 
 <!--   my-icons -->
 <p align="center">
