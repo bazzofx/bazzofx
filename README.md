@@ -46,9 +46,6 @@
 
 - ⚡ Fun fact **I can cook like a Boss!**
 
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 <!--   grid-snake -->
 ![](./src/snake-grid.svg)
 
