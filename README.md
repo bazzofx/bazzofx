@@ -39,11 +39,13 @@
 <a href="https://linkedin.com/in/paulo-bazzo-ma-91539393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulo-bazzo-ma-91539393" height="30" width="40" /></a>
 </p>
 
-<!--   GitHub stats graph -->
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bazzofx&show_icons=true&locale=en&layout=compact" alt="bazzofx" /></p>
- -->
- 
+ <!--   GitHub stats graph -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bazzofx&show_icons=true&locale=en" alt="bazzofx" /></p>
 
+<!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bazzofx&show_icons=true&locale=en&layout=compact" alt="bazzofx" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bazzofx&theme=dark" alt="bazzofx" /></p>
+ -->
+
+
+
