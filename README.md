@@ -7,8 +7,8 @@
     <a href="https://github.com/BEPb/BEPb/graphs/contributors"><img src="https://img.shields.io/github/contributors/bazzofx/bazzofx?color=blue"></a>
     <a href="https://github.com/BEPb/BEPb/stargazers"><img src="https://img.shields.io/github/stars/bazzofx/bazzofx.svg?logo=github"></a>
     <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/bazzofx/bazzofx.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=bazzofx/bazzofx" alt="visitors"/>   
-</p>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=bazzofx/bazzofx" alt="visitors"/></p>
+
 ![](./src/banner.jpg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=800&pause=1000&color=0AA918&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Paulo+Bazzo;Welcome+to+my+profile!;I+like+to+create+tools+for+developers+to+use;Always+learning+new+things..)](https://git.io/typing-svg)
