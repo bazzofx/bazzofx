@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Paulo Bazzo</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=800&pause=1000&color=0AA918&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Paulo+Bazzo;Welcome+to+my+profile!;I+am+a+Cyber+Securty+professional+specialised+in+automation;Always+learning+new+things..)](https://git.io/typing-svg)
 <h3 align="center">A Cyber Security professional specialized in automation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bazzofx&label=Profile%20views&color=0e75b6&style=flat" alt="bazzofx" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bazzofx" alt="bazzofx" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/bazzofx" target="blank"><img src="https://img.shields.io/twitter/follow/bazzofx?logo=twitter&style=for-the-badge" alt="bazzofx" /></a> </p>
 
@@ -35,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bazzofx&show_icons=true&locale=en" alt="bazzofx" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bazzofx&" alt="bazzofx" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bazzofx&theme=dark" alt="bazzofx" /></p>
