@@ -32,7 +32,6 @@
 [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bazzofx&theme=github-compact)](https://github.com/bazzofx/github-readme-activity-graph)
 
 
-
 - 🔭 I’m currently working on **threat baseline detection and response for Windows**
 
 - 🌱 I’m currently learning **Tensorflow**
@@ -47,7 +46,21 @@
 
 - ⚡ Fun fact **I can cook like a Boss!**
 
-<h3 align="left">Connect with me:</h3>
+<!--   profile-green-animate -->
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<!--   grid-snake -->
+![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
+
+<!--   skyline 
+<a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
+-->
+
+<!--  2d history skills -->
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb" width="auto"></img>
+
+
+<h3 align="left">**How to reach me:**</h3>
 <p align="left">
 <a href="https://twitter.com/bazzofx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bazzofx" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/paulo-bazzo-ma-91539393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulo-bazzo-ma-91539393" height="30" width="40" /></a>
