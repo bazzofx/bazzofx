@@ -56,6 +56,7 @@
 <a href="https://linkedin.com/in/paulo-bazzo-ma-91539393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulo-bazzo-ma-91539393" height="30" width="40" /></a>
 </p>
 
+![](./profile-3d-contrib/profile-night-green.svg)
 
  <!--   skyline 
 <a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bazzofx&show_icons=true&locale=en&layout=compact" alt="bazzofx" /></p>  
