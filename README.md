@@ -30,7 +30,6 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bazzofx&theme=github-compact)](https://github.com/bazzofx/github-readme-activity-graph)
 
 
 - 🔭 I’m currently working on **threat baseline detection and response for Windows**
