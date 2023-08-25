@@ -34,7 +34,7 @@
 
 - 🔭 I’m currently working on **threat baseline detection and response for Windows**
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **SOAR/SIEM Automation Detection and Response**
 
 - 👯 I’m looking to collaborate on **Projects around cyber security**
 
